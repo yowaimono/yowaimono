@@ -1,77 +1,68 @@
-# 👋 Hi, I'm [Your Name]!
+<!-- 标题 + 动态文字 -->
+<div align="center">
+  <h1>
+    <a href="https://github.com/yourusername">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+YourName;Full+Stack+Dev;Go+%7C+Python+%7C+Vue+%7C+React;Open+Source+Enthusiast" alt="动态打字效果" />
+    </a>
+  </h1>
+</div>
 
-🚀 **Full-Stack Developer** | 💻 **Tech Enthusiast** | 🌍 **Open Source Contributor**
+<!-- 技术栈徽章墙 -->
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=go,python,java,react,vue,flutter,docker,aws,redis,postgres,git,linux" />
+</div>
 
-Welcome to my GitHub profile! I'm passionate about building scalable, efficient, and user-friendly applications. Here's a little about me and my tech stack.
+<!-- GitHub统计卡片（需替换username） -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
+</div>
 
----
+<!-- 动态分隔线 -->
+<div align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
-## 🛠️ **Tech Stack**
+<!-- 项目亮点 -->
+<div align="center">
+  <h3>🚀 Featured Projects</h3>
+  <table>
+    <tr>
+      <td width="50%">
+        <h4>Project 1</h4>
+        <a href="https://github.com/yourusername/project1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=dark" />
+        </a>
+      </td>
+      <td width="50%">
+        <h4>Project 2</h4>
+        <a href="https://github.com/yourusername/project2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- 技能进度条（视觉效果） -->
+<div align="center">
+  <h3>📊 Skill Meter</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=radical" />
+</div>
 
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📊 **GitHub Stats**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
-
-## 🏆 **Achievements**
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
-
----
-
-## 📫 **Connect with Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-## 🌟 **Featured Projects**
-
-- **[Project 1](https://github.com/your-username/project-1)** - A brief description of your project.
-- **[Project 2](https://github.com/your-username/project-2)** - Another brief description.
-- **[Project 3](https://github.com/your-username/project-3)** - Yet another brief description.
-
----
-
-## 📝 **Blog Posts**
-
-- [How to Build a Scalable Microservice Architecture](https://your-blog.com/post-1)
-- [Getting Started with Flutter for Cross-Platform Development](https://your-blog.com/post-2)
-
----
-
-⭐️ **Thanks for visiting!** Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech!
+<!-- 联系方式 -->
+<div align="center">
+  <h3>📫 Connect with Me</h3>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
