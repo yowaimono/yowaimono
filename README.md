@@ -28,7 +28,7 @@ Check out my blog for more insights and tutorials:
 
 ## 📊 **GitHub Stats**
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?yowaimono&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yowaimono&show_icons=true&theme=radical)
 
 ---
 
